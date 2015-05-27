@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsersAndEvents.Application.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0. Model And Design", "0. Model And Design", "{4BCDBC51-7965-4141-835E-FB870830D7A2}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Application", "1. Application", "{C0CE45A2-ED32-425D-BFB6-8B953E8B9204}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Applications", "1. Applications", "{C0CE45A2-ED32-425D-BFB6-8B953E8B9204}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.1. Web Applications", "1.1. Web Applications", "{45DDE168-A7F3-45A6-9347-F4C5328CC00B}"
 EndProject
@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsersAndEvents.Application.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsersAndEvents.Application.SchedulledTasksExecutor.Test", "UsersAndEvents.Application.SchedulledTasksExecutor.Test\UsersAndEvents.Application.SchedulledTasksExecutor.Test.csproj", "{F847AE6B-BFF4-4D89-AC52-B62ADD075379}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Service", "2. Service", "{7AA81DE0-3615-47C8-ACA6-E78CF2107F71}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Services", "2. Services", "{7AA81DE0-3615-47C8-ACA6-E78CF2107F71}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.1. API", "2.1. API", "{53DEBDF2-9557-47AB-94D2-02FBDA78285E}"
 EndProject
