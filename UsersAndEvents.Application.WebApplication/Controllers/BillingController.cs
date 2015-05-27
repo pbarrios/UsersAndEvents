@@ -11,16 +11,16 @@ using WebApplication.Models;
 namespace WebApplication.Controllers
 {
     [Authorize]
-    public class ManageController : Controller
+    public class BillingController : Controller
     {
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
 
-        public ManageController()
+        public BillingController()
         {
         }
 
-        public ManageController(ApplicationUserManager userManager, ApplicationSignInManager signInManager)
+        public BillingController(ApplicationUserManager userManager, ApplicationSignInManager signInManager)
         {
             UserManager = userManager;
             SignInManager = signInManager;
